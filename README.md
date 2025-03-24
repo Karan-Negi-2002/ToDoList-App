@@ -22,7 +22,7 @@ A full-stack To-Do List application built with **Spring Boot** (Backend) and **R
 3. In /frontend directory, run the application.
    ```sh
    cd /frontend
-   npm run production
+   npm run
 4. Open your browser and browse to:
    ```sh
    http://localhost:3000
